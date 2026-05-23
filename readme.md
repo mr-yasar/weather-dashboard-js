@@ -8,3 +8,4 @@
 - Point 7: UV index information
 - Point 8: Precipitation chance
 - Point 9: Visibility distance
+- Point 10: Sunrise and sunset times

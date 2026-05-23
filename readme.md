@@ -7,3 +7,4 @@
 - Point 6: Wind speed and direction
 - Point 7: UV index information
 - Point 8: Precipitation chance
+- Point 9: Visibility distance

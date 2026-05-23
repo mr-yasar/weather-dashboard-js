@@ -86,7 +86,6 @@ searchBtn.addEventListener("click", () => {
 });
 
 
-// Enter Key Support
 cityInput.addEventListener("keypress", (e) => {
 
   if(e.key === "Enter"){

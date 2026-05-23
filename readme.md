@@ -5,3 +5,4 @@
 - Point 4: Search by city name
 - Point 5: 5-day forecast
 - Point 6: Wind speed and direction
+- Point 7: UV index information

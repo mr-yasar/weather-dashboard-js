@@ -4,3 +4,4 @@
 - Point 3: Real-time weather updates
 - Point 4: Search by city name
 - Point 5: 5-day forecast
+- Point 6: Wind speed and direction

@@ -1,0 +1,2 @@
+- Weather Dashboard: A simple weather application
+- Point 1: Displays current weather conditions

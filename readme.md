@@ -1,3 +1,4 @@
 - Weather Dashboard: A simple weather application
 - Point 1: Displays current weather conditions
 - Point 2: Shows temperature and humidity
+- Point 3: Real-time weather updates

@@ -3,3 +3,4 @@
 - Point 2: Shows temperature and humidity
 - Point 3: Real-time weather updates
 - Point 4: Search by city name
+- Point 5: 5-day forecast

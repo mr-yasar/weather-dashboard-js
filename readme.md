@@ -10,3 +10,4 @@
 - Point 9: Visibility distance
 - Point 10: Sunrise and sunset times
 - Point 11: Atmospheric pressure
+- Point 12: Weather alerts

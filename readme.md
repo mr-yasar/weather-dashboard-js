@@ -11,3 +11,6 @@
 - Point 10: Sunrise and sunset times
 - Point 11: Atmospheric pressure
 - Point 12: Weather alerts
+- Point 13: Local air quality index
+- Point 14: Historical weather comparison
+- Point 15: Favorite locations list

@@ -14,3 +14,4 @@
 - Point 13: Local air quality index
 - Point 14: Historical weather comparison
 - Point 15: Favorite locations list
+- Point 16: Sunrise and moon phase calendar
